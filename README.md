@@ -4,7 +4,7 @@ ejercicio 1
 function addNumbers(){
     let num1 = 10;
     let num2 = 25;
-    
+    let variable = "variable que varia :)";
      return resultado;
 
      return suma;
