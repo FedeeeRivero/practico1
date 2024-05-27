@@ -4,9 +4,11 @@ ejercicio 1
 function addNumbers(){
     let num1 = 10;
     let num2 = 25;
+    let num3 = 30;
     
      return resultado;
 
      return suma;
 }
 console.log(resultado);
+//agregue una variable mas
